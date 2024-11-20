@@ -43,10 +43,10 @@ No textbook is required, but students may use:
 * GitHub AccountLinks to an external site.
 
 ### Optional/Supplemental Materials:
-* Automate the Boring Stuff with PythonLinks to an external site.
-* Introduction to Python Programming (OpenStax)Links to an external site.
-* Introductory Statistics (OpenStax)Links to an external site.
-* Practical Statistics for Data ScientistsLinks to an external site.
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+* [Introduction to Python Programming (OpenStax)](https://openstax.org/details/books/introduction-python-programming)
+* [Introductory Statistics (OpenStax)](https://openstax.org/details/books/introductory-statistics-2e/)
+* Practical Statistics for Data Scientists O'Reilly Media
 
 ## Grading and Evaluation:  
 Your grade in the course will be determined as follows:
