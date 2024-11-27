@@ -59,4 +59,4 @@ Your grade in the course will be determined as follows:
 * Midterm Exam: GitHub Repository 15%
 * Final Exam: Data Science Portfolio (GitHub IO) 20%
 
-On Data Visualizations: [Data Visualization Explainer](https://github.com/laketalkemp/HU-DATA-200/blob/7887bd5318c6cd85deb35341dde2119bb4082d60/Data%20Visualization.md)
+On Data Visualizations: [Data Visualization Explainer](https://github.com/laketalkemp/HU-DATA-200/blob/main/Data%20Visualization.md)
